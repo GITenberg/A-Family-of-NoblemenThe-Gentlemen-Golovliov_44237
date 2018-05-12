@@ -1,0 +1,46 @@
+_repo: A-Family-of-NoblemenThe-Gentlemen-Golovliov_44237
+_version: 0.1.0
+alternative_title: Gospoda Golovlevy. English
+contributor:
+  translator:
+    agent_name: Yarmolinsky, Avrahm
+    aliases:
+    - Ярмолінскіў, Абрам Цалевіч
+    - Yarmolinsky, A.
+    - Yarmolinsky, Abraham
+    birthdate: 1890
+    deathdate: 1975
+    gutenberg_agent_id: '8767'
+    url: http://www.gutenberg.org/2009/agents/8767
+    wikipedia: http://en.wikipedia.org/wiki/Avrahm_Yarmolinsky
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saltykov, Mikhail Evgrafovich
+    aliases:
+    - Салтыков-Щедрин, Михаил Евграфович
+    - Saltykov-Shchedrin, Mikhail Evgrafovich
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '5090'
+    url: http://www.gutenberg.org/2009/agents/5090
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Saltykov-Shchedrin
+description: ''
+gutenberg_issued: '2013-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Families -- Russia -- Fiction'
+- !lcsh 'Domestic fiction'
+title: 'A Family of Noblemen
+
+  The Gentlemen Golovliov'
+url: http://www.gutenberg.org/ebooks/44237
